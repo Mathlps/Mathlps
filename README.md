@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Matheus Lopes
 
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas 
-- 😄 Pronomes: ele/dele
 <!--
 **Mathlps/Mathlps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
