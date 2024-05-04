@@ -2,6 +2,12 @@
 
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas 
 - 😄 Pronomes: ele/dele
+
+  <div>
+<a href="https://github.com/mathlps">
+<img align="center" src="https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=mathlps&layout=compact&card_width=445&border_radius=30&hide_border=false&theme=dracula"/>
+</a>
+</div>
 <!--
 **Mathlps/Mathlps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
