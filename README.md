@@ -3,11 +3,30 @@
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas 
 - 😄 Pronomes: ele/dele
 
-  <div>
-<a href="https://github.com/mathlps">
-<img align="center" src="https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=mathlps&layout=compact&card_width=445&border_radius=30&hide_border=false&theme=dracula"/>
-</a>
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Mathlps&theme=dracula&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+---
+
+
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Mathlps&show_icons=true&theme=dracula">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathlps&size_weight=0.15&count_weight=0.5&layout=compact&theme=dracula">
+</p>
+ 
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mathlps&style=for-the-badge&color=orange" alt=""/>
 </div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 <!--
 **Mathlps/Mathlps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
