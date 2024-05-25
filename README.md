@@ -16,10 +16,10 @@
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Mathlps&show_icons=true&theme=dracula">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathlps&layout=compact&langs_count=16&theme=dracula&include_all_commits=true"/>
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathlps&layout=compact&langs_count=16&theme=dracula&include_all_commits=true"/>
 </p>
  
-
+ 
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Mathlps&style=for-the-badge&color=orange" alt=""/>
