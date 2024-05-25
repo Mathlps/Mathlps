@@ -16,7 +16,7 @@
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Mathlps&show_icons=true&theme=dracula">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathlps&size_weight=0.15&count_weight=0.5&layout=compact&theme=dracula">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathlps&layout=compact&langs_count=16&theme=holi&include_all_commits=true"/>
 </p>
  
 
