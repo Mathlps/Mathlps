@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus Lopes
 
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas 
-- 😄 Pronomes: ele/dele
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas 
+  
 
 
 <p align="center">
